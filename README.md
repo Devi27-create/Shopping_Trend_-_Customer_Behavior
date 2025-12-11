@@ -19,7 +19,7 @@ The project demonstrates how **5A's storytelling** can turn raw transactional da
 - Identify relationships between **age, gender, season, and product category**.
 - Measure the impact of **subscriptions, discounts, and promo codes** on spending.
 - Visualize insights that support **marketing, retention, and seasonal strategies**.
-- Showcase the use of **AI in analytics, design, and data narration**.
+- Showcase the use of **5A's in analytics, and data narration**.
 
 ---
 
